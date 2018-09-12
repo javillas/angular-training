@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-    onMediaItemDelete(mediaItem) {}
+    /* onMediaItemDelete(mediaItem) {}
 
     firstMediaItem = {
         id: 1,
@@ -17,5 +17,5 @@ export class AppComponent {
         year: 2010,
         watchedOn: null,
         isFavorite: false
-    };
+    }; */
 }

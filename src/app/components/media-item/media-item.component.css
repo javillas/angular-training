@@ -62,3 +62,15 @@
     color: #ffffff;
     text-decoration: none;
   }
+
+  .default{
+    background-color: transparent ;
+  }
+
+  .colored{
+    background-color: red;
+  }
+
+  .remove{
+    display: none;
+  }
